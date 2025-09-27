@@ -7,6 +7,7 @@ Notion Database에 '게시글 링크/게시글 제목 요약/수집 년 월/Task
 
 ## 2025년
 - [1월~6월](https://charm-honeycrisp-c3c.notion.site/1730b6f8c4b580689685e40fa43de40a?v=1730b6f8c4b5815fb542000c4bca0436&pvs=74)
+- [7월~12월](https://charm-honeycrisp-c3c.notion.site/2680b6f8c4b580acbb5ec63ebb1b3efa?v=2680b6f8c4b581a68b78000cd0918390&source=copy_link)
 ___
 ## 2024년
 - [1월~6월](https://charm-honeycrisp-c3c.notion.site/017a9188e046415cb8a43e9fae2dffde?v=473cfdd544904aff871afe995d7627a8&pvs=4)
