@@ -4,7 +4,10 @@
 Notion Database에 '게시글 링크/게시글 제목 요약/수집 년 월/Task 분류' Column 항목을 저장해두고 있습니다.
 * 예시 사진
 ![](https://github.com/msp3887/ML-AI-Posting-Archive/blob/main/example.png?raw=true)
-
+## 2026년
+- [1월~6월](https://www.notion.so/2da0b6f8c4b580ceaa23d2851a76b4f1?v=2da0b6f8c4b5812f9128000c549f1f29&source=copy_link)
+- 
+___ 
 ## 2025년
 - [1월~6월](https://charm-honeycrisp-c3c.notion.site/1730b6f8c4b580689685e40fa43de40a?v=1730b6f8c4b5815fb542000c4bca0436&pvs=74)
 - [7월~12월](https://charm-honeycrisp-c3c.notion.site/2680b6f8c4b580acbb5ec63ebb1b3efa?v=2680b6f8c4b581a68b78000cd0918390&source=copy_link)
