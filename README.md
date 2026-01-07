@@ -1,7 +1,7 @@
 # ML/AI Posting Archive
-연구 및 업무에서 활용하기 위해서 ML/AI 연구 SNS 포스팅을 수집한 Notion 페이지 입니다.
+This is a Notion page that collected ML/AI research SNS posts for use in research and work.
 
-Notion Database에 '게시글 링크/게시글 제목 요약/수집 년 월/Task 분류' Column 항목을 저장해두고 있습니다.
+It stores the column 'Post Link/Post Title Summary/Collection Month/Task Classification' in the Notion Database.
 * 예시 사진
 ![](https://github.com/msp3887/ML-AI-Posting-Archive/blob/main/example.png?raw=true)
 ## 2026년
