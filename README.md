@@ -6,6 +6,7 @@ It stores the column 'Post Link/Post Title Summary/Collection Month/Task Classif
 ![](https://github.com/msp3887/ML-AI-Posting-Archive/blob/main/example.png?raw=true)
 ## 2026年
 - [1月~6月](https://www.notion.so/2da0b6f8c4b580ceaa23d2851a76b4f1?v=2da0b6f8c4b5812f9128000c549f1f29&source=copy_link)
+- [7月~12月](https://charm-honeycrisp-c3c.notion.site/38f0b6f8c4b58033b3eaee2dbef96bc6?v=e430b6f8c4b5837a9feb08d5d3b43d94&source=copy_link)
 ___ 
 ## 2025年
 - [1月~6月](https://charm-honeycrisp-c3c.notion.site/1730b6f8c4b580689685e40fa43de40a?v=1730b6f8c4b5815fb542000c4bca0436&pvs=74)
